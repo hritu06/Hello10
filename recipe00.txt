@@ -1,1 +1,5 @@
 Welcome to my new repository.
+
+here we are going to introduce the git and its working principle.
+
+thank you..
